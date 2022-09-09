@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    padding: 0px;
+}
+
+table {
+    border-radius: 15px;
+    box-shadow: 10px 10px black;
+    background-color: #afb4ff;
+}
+
+a {
+    padding: 0px 8%;
+}
+
+img {
+    padding: 5px;
+}
+
+p {
+    padding: 0px 20px;
+}
